@@ -17,3 +17,8 @@
 * React, Astro, Tailwind CSS, TypeScript, Next.js, Node.js
 * Vercel, Netlify, PostgreSQL
 * Photoshop
+## 🌀Extra
+* I love listening to [New Age](https://youtu.be/lOZy-UARSqU?si=74hW7QRL7pLQprwF) and [Trance](https://www.youtube.com/watch?v=zLy--cFj6W0) music while I'm coding or drawing.
+* The most complex project I've done is [KAKIOKI](https://github.com/Neuwair/kakioki).
+* I love playing [DayZ](https://store.steampowered.com/app/221100/DayZ/).
+
