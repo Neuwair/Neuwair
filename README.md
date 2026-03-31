@@ -23,3 +23,5 @@ Hey there! I'm Neuwair, you can call me Neu, or Ria as well. I'm an anime illust
 * The most complex project I've done is [KAKIOKI](https://github.com/Neuwair/kakioki).
 * I love playing [DayZ](https://store.steampowered.com/app/221100/DayZ/).
 
+![HEY3U7AbEAATfAD](https://github.com/user-attachments/assets/c1d58b1d-3afa-4b88-b8ab-4f7ea0be8704)
+![G72fdq6WkAE6we0](https://github.com/user-attachments/assets/acaeb400-733d-495f-87a8-bdbf35c6cb24)
